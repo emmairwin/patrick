@@ -2,7 +2,7 @@
 layout: post
 title: Memorial Paddle Out
 description: 'Family & Close Friends, August.'
-img: /img/116.jpg
+img: ../img/116.jpg
 redirect: 'https://unsplash.com'
 ---
 
