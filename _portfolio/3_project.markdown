@@ -10,7 +10,7 @@ img: ../img/100.jpg
 **Where**: Whiffen Spit<br>
 **Afterwards**: TBA (food/reception)
 
-Patrick was most spiritual and free, rising and falling with ocean waves on his surfboard. And every chance he could, he brought our daughters to the water - swimming in the [Pot Holes](https://www.crd.bc.ca/parks-recreation-culture/parks-trails/find-park-trail/sooke-potholes), walking along [Whiffen Spit](http://discoversooke.com/outdoor-activities/parks-trails/whiffen-spit/), and learning to surf in [Tofino](https://www.tourismtofino.com/tofino-beaches) and [China Beach](http://www.juandefucamarinetrail.com/china_beach.html).
+Patrick was most spiritual and free, rising and falling with ocean waves on one of his 5 surfboards. And every chance he could, he brought our daughters to the water - swimming in the [Pot Holes](https://www.crd.bc.ca/parks-recreation-culture/parks-trails/find-park-trail/sooke-potholes), walking along [Whiffen Spit](http://discoversooke.com/outdoor-activities/parks-trails/whiffen-spit/), and learning to surf in [Tofino](https://www.tourismtofino.com/tofino-beaches) and [China Beach](http://www.juandefucamarinetrail.com/china_beach.html).
 
 Patrick's public memorial will be a walk at Whiffen Spit. Please join us in remembering Patrick in one of the places he was most happy. We will meet in the parking lot at 10:00 AM, a simple reception is also being organized.
 
