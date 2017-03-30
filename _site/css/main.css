@@ -309,7 +309,7 @@ pre {
     .poem-title {
       font-size: 16px; } }
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 .clearfix:before,
@@ -334,7 +334,7 @@ pre {
   overflow: hidden; }
 
 .thumbnail img {
-  width: 500px;
+  width: 340px;
   height: auto;
   position: relative;
   left: -25%;
@@ -361,7 +361,7 @@ pre {
 .thumbnail a:hover span {
   display: block; }
 
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox {
