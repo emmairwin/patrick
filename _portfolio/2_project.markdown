@@ -6,7 +6,3 @@ img: ../img/112.jpg
 ---
 
 Details of Walk go here
-
-<div class="">
-  <img class="" src="/img/111.jpg">
-</div>
