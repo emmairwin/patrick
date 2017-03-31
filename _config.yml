@@ -4,8 +4,6 @@ email: emma.irwin@gmail.com
 description: Remembering Patrick Irwin
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: @sunnydeveloper
-github_username:  emmairwin
 
 # Build settings
 markdown: kramdown
