@@ -11,9 +11,10 @@ If you would like to make a donation in Patrick's name, here is a list of organi
 - [Tour De Rock](http://www.tourderock.ca/) making Camp Goodtimes possible.
 - [Victoria Hospice](https://www.victoriahospice.org/) Family care for end of life.
 - [Sooke Hospice](http://www.sookehospice.com/) Sooke community hospice.
-- [Alberta College of Art and Design](https://acad.ca/support-acad/give-acad/donate-acad) Patrick graduated with honours, and the [Governor General's Academic Medal](https://www.gg.ca/document.aspx?id=15008)from ACAD.
+- [Alberta College of Art and Design](https://acad.ca/support-acad/give-acad/donate-acad) Patrick graduated with honours, and the [Governor General's Academic Medal] (<https://www.gg.ca/document.aspx?id=15008)from> ACAD.
 
 If you would like to lend financial support to the family at this time, you can do so in three ways:
 
 1. [GoFundMe](https://www.gofundme.com/help-the-irwin-family)
 2. [Online auction](https://www.facebook.com/events/214685179014410/)
+3. Reach out directly to irwinfamilysooke@gmail.com

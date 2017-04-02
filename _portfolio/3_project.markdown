@@ -8,7 +8,7 @@ img: ../img/100.jpg
 **What**: Patrick Irwin Public Memorial<br>
 **When**: Saturday, April 8th<br>
 **Walk**: Whiffen Spit, 10:00 AM<br>
-**Food & Craft**: 12:00 PM (location TBA)<br>
+**Food & Craft**: 12:00 PM , Sooke Community Hall<br>
 
 <div class="">
   <img class="col three" src="{{ site.baseurl }}/img/55.jpg" alt="" title="example image">
